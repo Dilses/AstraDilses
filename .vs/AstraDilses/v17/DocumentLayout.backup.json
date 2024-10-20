@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\GitHub\\AstraDilses\\AstraDilses\\",
+  "WorkspaceRootPath": "F:\\GitHub\\AstraDilses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01DB9293-11AA-4F5F-8CAF-D078F46CAA82}|AstraDilses.vcxproj|F:\\GitHub\\AstraDilses\\AstraDilses\\AstraDilses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01DB9293-11AA-4F5F-8CAF-D078F46CAA82}|AstraDilses.vcxproj|solutionrelative:AstraDilses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E1172662-ED85-4C50-B91F-B85B69F31F65}|AstraDilses.vcxproj|F:\\GitHub\\AstraDilses\\AstraDilses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1172662-ED85-4C50-B91F-B85B69F31F65}|AstraDilses.vcxproj|solutionrelative:AstraDilses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AstraDilses.cpp",
-              "DocumentMoniker": "F:\\GitHub\\AstraDilses\\AstraDilses\\AstraDilses.cpp",
+              "DocumentMoniker": "F:\\GitHub\\AstraDilses\\AstraDilses.cpp",
               "RelativeDocumentMoniker": "AstraDilses.cpp",
-              "ToolTip": "F:\\GitHub\\AstraDilses\\AstraDilses\\AstraDilses.cpp",
+              "ToolTip": "F:\\GitHub\\AstraDilses\\AstraDilses.cpp",
               "RelativeToolTip": "AstraDilses.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-20T12:51:54.573Z",
+              "WhenOpened": "2024-10-20T13:00:03.973Z",
               "EditorCaption": ""
             }
           ]
