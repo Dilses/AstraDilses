@@ -2,6 +2,5 @@ using Standard;
 
 [EntryPoint]
 void main() {
-    Logger.AdditionalInfo(false);
-    Logger.Info("Hello, world!");
+    Console.Print("Hello, world!");
 }
